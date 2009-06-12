@@ -1,0 +1,3 @@
+
+# init.rb
+require 'uniquify'
